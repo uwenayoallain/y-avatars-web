@@ -3,7 +3,7 @@ import Playground from "./playground";
 import Home from "./home";
 import NotFound from "./404";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import "tailwindcss/dist/tailwind.css";
+// import "tailwindcss/dist/tailwind.css";
 const App = () => {
   return (
     <Router>
